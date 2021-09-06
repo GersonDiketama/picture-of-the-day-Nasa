@@ -1,0 +1,2 @@
+#don't track api_key of these folders
+./scripts/apikeys.js
